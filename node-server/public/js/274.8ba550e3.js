@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_webapp"]=self["webpackChunkvue_webapp"]||[]).push([[274],{1274:function(e,u,n){n.r(u),n.d(u,{default:function(){return p}});var t=function(){var e=this,u=e.$createElement,n=e._self._c||u;return n("h2",[e._v("文章列表")])},c=[],r={},a=r,f=n(1001),l=(0,f.Z)(a,t,c,!1,null,"efa6c1fc",null),p=l.exports}}]);
+//# sourceMappingURL=274.8ba550e3.js.map

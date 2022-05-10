@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "qf-cate": "/components/cate/cate"
+  },
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTitleText": "你好",
+  "navigationBarTextStyle": "white"
+}

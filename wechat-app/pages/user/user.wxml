@@ -1,0 +1,4 @@
+<view>
+    <qf-cate name='千锋'></qf-cate>
+    <qf-cate name='教育'></qf-cate>
+</view>

@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+  <input 
+    class="task" 
+    type="text" 
+    value="{{task}}" 
+    bindinput="getTask" 
+    bindconfirm="confirm"
+  />
+  <view wx:for='{{list}}' wx:for-item='row' wx:key='id'>
+    <view>{{row.task}}</view>
+  </view>
+</view>
